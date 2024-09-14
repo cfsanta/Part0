@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>MyFirstFormulario</title>    
     <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-    <link href="/home/christian/Documentos/CURSO DE FULL STACK U HELSINKI/EJERCICIOS 0.1.-0.6/FIRST PAGE WEB HTML/StylesForFomulario.css" rel="stylesheet" type="text/css">
+    <link href="https://github.com/cfsanta/Ejercicios-0.1-a-0.6/blob/944311c079e4b99465d9e6841e2b9d933aa5b805/Ejercicio%200.3%20Stilos%20CSS%20para%20el%20Fomrulario" rel="stylesheet" type="text/css">
   </head>
   <body>
     <h1>My First formulario</h1>    
