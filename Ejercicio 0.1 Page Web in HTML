@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>My test page</title>
     <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-    <link href="/home/christian/Documentos/CURSO DE FULL STACK U HELSINKI/EJERCICIOS 0.1.-0.6/FIRST PAGE WEB HTML/styles.css" rel="stylesheet" type="text/css">
+    <link href="https://github.com/cfsanta/Ejercicios-0.1-a-0.6/blob/22b4010a7bfffd9f92fa443c68cf284c75b6023b/Ejercicio%200.1%20Hoja%20de%20Stilo%20CSS" rel="stylesheet" type="text/css">
   </head>
   <body>
     <h1>Mozilla is cool en Colombia y todo el mundo</h1>
