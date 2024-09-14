@@ -1,0 +1,11 @@
+sequenceDiagram
+    participant Usuario
+    participant PaginaWeb
+    participant Backend
+    
+    Usuario->>PaginaWeb: Accede a la página web
+    PaginaWeb->>Usuario: Muestra la lista de notas
+
+    Usuario->>PaginaWeb: Ingresa nueva nota
+    PaginaWeb->>Backend: Enviar nueva nota para almacenamiento
+    PaginaWeb->>Usuario: Muestra la lista actualizada con la nueva nota
