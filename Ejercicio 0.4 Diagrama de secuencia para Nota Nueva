@@ -1,12 +1,12 @@
 sequenceDiagram
     participant Usuario
     participant PaginaWeb
-    participant Backend
+    participant Backend(server)
     
     Usuario->>PaginaWeb: Accede a la página web
     PaginaWeb->>Usuario: Muestra la lista de notas
 
     Usuario->>PaginaWeb: Ingresa nueva nota
-    PaginaWeb->>Backend: Enviar nueva nota para almacenamiento
-    Backend-->>PaginaWeb: Confirmación de almacenamiento
+    PaginaWeb->>Backend(server): Enviar nueva nota para almacenamiento
+    Backend(server)-->>PaginaWeb: Confirmación de almacenamiento
     PaginaWeb->>Usuario: Muestra la lista actualizada con la nueva nota
