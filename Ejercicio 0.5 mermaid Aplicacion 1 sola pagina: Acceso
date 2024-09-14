@@ -1,0 +1,7 @@
+sequenceDiagram
+    participant Usuario
+    participant PaginaWeb
+    participant Backend
+    
+    Usuario->>PaginaWeb: Accede a la página web
+    PaginaWeb->>Usuario: Muestra la lista de notas
